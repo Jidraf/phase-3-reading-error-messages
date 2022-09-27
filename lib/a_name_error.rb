@@ -1,3 +1,1 @@
-puts "hello world"
-
-#hello_world
+a_random_number = 7

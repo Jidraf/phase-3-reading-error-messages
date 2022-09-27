@@ -1,3 +1,3 @@
-x = 1
-
-print x 
+2.times do
+    puts "Hello world!"
+end
